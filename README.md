@@ -23,15 +23,16 @@ Inherited and Adapted from US repo.
 
 This is a partial upload of the repo relevant to UK operations and FE functionality.
 
-Content: /content, /constants
+Content: ```/content/, /constants/```
 
-Components Library: /components, /modules
+Components Library: ```/components, /modules/```
 
-User Checkout Flow Forms (Greenfield, WIP): /domains/checkout-flow 
+User Checkout Flow Forms (Greenfield, WIP): ```/domains/checkout-flow/```
 
-Product Routing: routes/
+Product Routing: ```routes/```
 
 Core content UI rendering generated dynamically from content/ with explicit reference to component ids/types  
+
 
 # RESPONSIBILITIES (from CV)
 
@@ -97,9 +98,6 @@ npm run cypress:run
 If you have questions about how we're testing this repo read the
 [Testing-Guide](./TESTING-GUIDE.md).
 
-## Domains
-
-[Checkout Flow](domains/checkout-flow/README.md)
 
 
 
