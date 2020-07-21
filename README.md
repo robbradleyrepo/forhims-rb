@@ -11,7 +11,9 @@ Max Barry - FS Developer
 
 # Tech Stack
 
-React, Typescript, Storybook, Saga, Styled Components, Hooks. 
+React, Typescript, Storybook, Saga, Styled Components, Hooks
+
+Git, Circle CI for Deployment
 
 Live Site: https://forhims.co.uk
 
@@ -38,9 +40,7 @@ Working within a small team, supporting one f/s dev, responsible for creating ne
 Additional: UX/Design - Sketch, Zeplin & Photoshop
 
 
-## Build Indicator
-
-[![CircleCI](https://circleci.com/gh/Clubroom/hers/tree/master.svg?style=svg&circle-token=e08e45283e969060a6d8da51c92066d2205f4311)](https://circleci.com/gh/Clubroom/hers/tree/master)
+ 
 
 ## Setup environment
 
