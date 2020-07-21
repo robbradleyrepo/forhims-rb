@@ -1,7 +1,9 @@
 # Hims UK Store UI
 
 Authors: 
+
 Rob Bradley - FE Developer 
+
 Max Barry - FS Developer
 
 (Contract) JAN 2020 - APR 2020
@@ -11,25 +13,31 @@ Max Barry - FS Developer
 
 React, Typescript, Storybook, Saga, Styled Components, Hooks. 
 
-Live Site: https://www.bhf.org.uk/
+Live Site: https://forhims.co.uk
 
 # Core FE Directories of note:
 
-Inherited and Adapted from US repo. This is a partial upload of the repo relevant to UK operations and FE functionality.
+Inherited and Adapted from US repo. 
 
-Content: /content, /constant
+This is a partial upload of the repo relevant to UK operations and FE functionality.
+
+Content: /content, /constants
+
 Components Library: /components, /modules
+
 User Checkout Flow Forms (Greenfield, WIP): /domains/checkout-flow 
-Product page routing: routes/
+
+Product Routing: routes/
 
 Core content UI rendering generated dynamically dependent on content/ with explicit reference to component ids/types  
 
 # RESPONSIBILITIES (from CV)
 
-UK startup of this successful (top 5%, Forbes) US Men’s
-Wellness Platform. Working within a small team, supporting one f/s dev, responsible for
-creating new product pages, site wide updates and a greenfield build of the Checkout flow.
-Assisted in UX/Design. https://forhims.co.uk
+UK startup of this successful (top 5%, Forbes) US Men’s Wellness Platform. 
+
+Working within a small team, supporting one f/s dev, responsible for creating new product pages, site wide updates and a greenfield build of the Checkout flow.
+
+Additional: UX/Design - Sketch, Zeplin & Photoshop
 
 
 ## Build Indicator
