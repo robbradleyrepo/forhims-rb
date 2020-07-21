@@ -9,7 +9,7 @@ Rob Bradley - FE Developer
 
 Max Barry - FS Developer
 
-# Tech Stack
+## Tech Stack
 
 React, Typescript, Storybook, Saga, Styled Components, Hooks
 
@@ -17,7 +17,7 @@ Git, Circle CI for Deployment
 
 Live Site: https://forhims.co.uk
 
-# Core FE Directories of note:
+## Core FE Directories of note:
 
 Inherited and Adapted from US repo. 
 
@@ -34,7 +34,7 @@ Product Routing: ```routes/```
 Core content UI rendering generated dynamically from content/ with explicit reference to component ids/types  
 
 
-# RESPONSIBILITIES (from CV)
+## RESPONSIBILITIES (from CV)
 
 Working within a small team, supporting one f/s dev, responsible for creating new product pages, site wide updates and a greenfield build of the Checkout flow.
 
