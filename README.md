@@ -1,15 +1,15 @@
 # Hims UK Store UI
 
+UK startup operations of HIMS US Men’s Wellness Platform. 
+
 Authors: 
 
 Rob Bradley - FE Developer 
+(Contract) JAN 2020 - APR 2020
 
 Max Barry - FS Developer
 
-(Contract) JAN 2020 - APR 2020
-
-
-# TECH STACK
+# Tech Stack
 
 React, Typescript, Storybook, Saga, Styled Components, Hooks. 
 
@@ -29,11 +29,9 @@ User Checkout Flow Forms (Greenfield, WIP): /domains/checkout-flow
 
 Product Routing: routes/
 
-Core content UI rendering generated dynamically dependent on content/ with explicit reference to component ids/types  
+Core content UI rendering generated dynamically from content/ with explicit reference to component ids/types  
 
 # RESPONSIBILITIES (from CV)
-
-UK startup of this successful (top 5%, Forbes) US Men’s Wellness Platform. 
 
 Working within a small team, supporting one f/s dev, responsible for creating new product pages, site wide updates and a greenfield build of the Checkout flow.
 
