@@ -1,0 +1,60 @@
+import styled from "styled-components";
+import {
+  alignItems,
+  alignSelf,
+  backgroundImage,
+  bg,
+  borderColor,
+  borders,
+  bottom,
+  color,
+  display,
+  flex,
+  flexDirection,
+  flexWrap,
+  height,
+  justifyContent,
+  justifySelf,
+  left,
+  maxHeight,
+  maxWidth,
+  minHeight,
+  minWidth,
+  position,
+  right,
+  space,
+  textAlign,
+  top,
+  width,
+  zIndex
+} from "styled-system";
+
+export const Block = styled.div`
+  ${alignItems};
+  ${alignSelf};
+  ${backgroundImage};
+  ${bg};
+  ${borderColor};
+  ${borders};
+  ${bottom};
+  ${color};
+  ${display};
+  ${flexDirection};
+  ${flexWrap};
+  ${flex};
+  ${height};
+  ${justifyContent};
+  ${justifySelf};
+  ${left};
+  ${maxHeight};
+  ${maxWidth};
+  ${minHeight};
+  ${minWidth};
+  ${position};
+  ${right};
+  ${space};
+  ${textAlign};
+  ${top};
+  ${width};
+  ${zIndex};
+`;

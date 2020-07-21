@@ -1,0 +1,88 @@
+/*
+  Using a font-file to workaround an issue with Styled Components where
+  fonts could be requested during each re-render
+
+  https://github.com/styled-components/styled-components/issues/2227
+  https://github.com/styled-components/styled-components/issues/1593
+ */
+
+@font-face {
+  font-family: "IvarWeb";
+  font-weight: 400;
+  src: url("/css/fonts/IvarTextRegular.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/IvarTextRegular.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "IvarWeb";
+  font-weight: 500;
+  src: url("/css/fonts/IvarTextMedium.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/IvarTextMedium.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "IvarWeb";
+  font-weight: 600;
+  src: url("/css/fonts/IvarTextSemiBold.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/IvarTextSemiBold.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "IvarWeb";
+  font-weight: 700;
+  src: url("/css/fonts/IvarTextBold.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/IvarTextBold.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "SofiaProWeb";
+  font-weight: 300;
+  src: url("/css/fonts/SofiaProLight.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/SofiaProLight.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "SofiaProWeb";
+  font-weight: 400;
+  src: url("/css/fonts/SofiaProRegular.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/SofiaProRegular.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "SofiaProWeb";
+  font-weight: 500;
+  src: url("/css/fonts/SofiaProMedium.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/SofiaProMedium.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "SofiaProWeb";
+  font-weight: 600;
+  src: url("/css/fonts/SofiaProSemiBold.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/SofiaProSemiBold.otf") format("truetype");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "SofiaProWeb";
+  font-weight: 700;
+  src: url("/css/fonts/SofiaProBold.otf");
+  /* IE9 Compat Modes */
+  src: url("/css/fonts/SofiaProBold.otf") format("truetype");
+  font-display: fallback;
+}
